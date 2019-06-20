@@ -26,7 +26,7 @@ let users = {
       "xi3ca2jcfvpa0i3t4m7ag"
     ]
   },
-  andreas_kostakis: {
+  dan_abramov: {
     id: "dan_abramov",
     name: "Andreas Kostakis",
     avatarURL: "https://avatars1.githubusercontent.com/u/7514623?s=460&v=4",
