@@ -17,7 +17,7 @@ class App extends Component {
       <Router>
         <Fragment>
           <LoadingBar />
-          <div classMame="container">
+          <div className="container">
             <Nav />
             {this.props.loading === true ? null : (
               <div>
